@@ -6,6 +6,7 @@
     - My feature idea projects:
         - Bookmark Manager
         - Wallpaper Changer - for linux -
+        - To-do app
 
-- 📫 How to reach me: Coming soon. (I haven't learned the best privacy-focused public communications app. If you know of a good one, feel free to tell me.)
+- 📫 How to reach me: Coming soon. 
 
