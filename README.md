@@ -1,4 +1,6 @@
-### Hi there 👋 I am Cyber-Syntax
+### :octocat: Hi there 👋 I am Cyber-Syntax :technologist:
+###  ‎ <sup><sub><samp>HI THERE! THANKS FOR DROPPING BY!</samp></sub></sup>
+
 
 - 🔭 I’m currently working on my github repositorys
 - 🌱 I’m currently learning python and cybersecurity.
@@ -8,5 +10,5 @@
         - Wallpaper Changer - for linux -
         - To-do app
 
-- 📫 How to reach me: @priv4cy@mastodon.social 
-
+- 📫 How to reach me: 
+    - :elephant: @priv4cy@mastodon.social  
