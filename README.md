@@ -8,5 +8,5 @@
         - Wallpaper Changer - for linux -
         - To-do app
 
-- 📫 How to reach me: Coming soon. 
+- 📫 How to reach me: @priv4cy@mastodon.social 
 
