@@ -1,6 +1,4 @@
 ### :octocat: Hi there 👋 I am Cyber-Syntax :technologist:
-###  ‎ <sup><sub><samp>HI THERE! THANKS FOR DROPPING BY!</samp></sub></sup>
-
 
 - 🔭 I’m currently working on my github repositorys
 - 🌱 I’m currently learning python and cybersecurity.
