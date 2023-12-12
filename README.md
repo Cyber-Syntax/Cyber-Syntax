@@ -1,4 +1,4 @@
-### :octocat: Hi there 👋 I am Cyber-Syntax :technologist:
+### Hi there 👋 I am Cyber-Syntax 
 
 - 🔭 I am currently working on improving myself.
 - 🌱 I am currently learning programming, cybersecurity and computer science:
