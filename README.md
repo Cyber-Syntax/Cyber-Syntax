@@ -1,15 +1,16 @@
-### Hi there 👋 I am Cyber-Syntax 
-[![Resume Badge](https://img.shields.io/badge/Resume-%23121011.svg?style=for-the-badge)](https://cyber-syntax.github.io/)
+<h1 align="center"> Hi there 👋 I am Şerif, known as "Cyber-Syntax" </h1>
 
-- 🔭 **Currently Working On:**
-  - Updating my CV and enhancing my skills.
+<div align="center">
+	
+[![Resume Badge](https://img.shields.io/badge/Resume-%23121011.svg?style=for-the-badge)](https://cyber-syntax.github.io/) 
+</div>
 
-- 🌱 **Currently Learning:**
-  - Programming and Linux System Administration.
-    - 🚀 **In Progress:**
-      - Sysadmin
-      - Python
-      - Bash
+- 🔭 **Currently Working On**:
+	- CV and Online Portfolio
+
+- 🌱 **Currently Learning:** Programming and Linux System Administration.
+	- ![NixOS](https://img.shields.io/badge/NIXOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white) ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 
 ## SKILLS
 <details>
