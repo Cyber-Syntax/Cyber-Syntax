@@ -1,15 +1,24 @@
 
 <div align="center">
 	
+
 [![Resume Badge](https://img.shields.io/badge/Resume-%23121011.svg?style=for-the-badge)](https://cyber-syntax.github.io/) 
 </div>
 
 <div align="center">
-	
+
+
+
+ 
 💻 **Currently Learning:** Programming and Linux System Administration.
 
 ![NixOS](https://img.shields.io/badge/NIXOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white) ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+## **💸 Sponsor Me**
+
+If you appreciate my work and would like to support **young developer**, please consider sponsoring me on GitHub!
+
+[![Sponsor Cyber-Syntax](https://img.shields.io/badge/Sponsor-Cyber--Syntax-brightgreen)](https://github.com/sponsors/Cyber-Syntax)
 
 ## SKILLS
 <details>
