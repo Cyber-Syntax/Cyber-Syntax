@@ -57,7 +57,9 @@ If you appreciate my work and would like to support **young developer**, please 
 <summary>Expand</summary>
    
 [![Cyber-Syntax Statics](https://github-readme-stats.vercel.app/api?username=Cyber-Syntax&show_icons=true&theme=nord)](https://Cyber-Syntax.dev) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyber-Syntax&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats) ![](https://github-readme-streak-stats.herokuapp.com/?user=cyber-syntax&theme=nord&hide_border=false)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyber-Syntax&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats) 
+![](https://github-readme-streak-stats.herokuapp.com/?user=cyber-syntax&theme=nord&hide_border=false)
 ![](https://github-contributor-stats.vercel.app/api?username=cyber-syntax&limit=5&theme=nord&combine_all_yearly_contributions=true)
 ![](https://github-profile-trophy.vercel.app/?username=cyber-syntax&theme=nord&no-frame=true&no-bg=false&margin-w=4)
 
