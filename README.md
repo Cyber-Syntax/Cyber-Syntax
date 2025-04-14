@@ -7,19 +7,6 @@
 
 <div align="center">
 
-
-
- 
-💻 **Currently Learning:** Programming and Linux System Administration.
-
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-## **💸 Sponsor Me**
-
-If you appreciate my work and would like to support **young developer**, please consider sponsoring me on GitHub!
-
-[![Sponsor Cyber-Syntax](https://img.shields.io/badge/Sponsor-Cyber--Syntax-brightgreen)](https://github.com/sponsors/Cyber-Syntax)
-
 ## SKILLS
 <details>
   <summary>Expand</summary>
