@@ -5,7 +5,7 @@
 [![Resume Badge](https://img.shields.io/badge/Resume-%23121011.svg?style=for-the-badge)](https://cyber-syntax.github.io/) 
 </div>
 
-<div align="center">
+<div align="left">
 
 ## SKILLS
 <details>
