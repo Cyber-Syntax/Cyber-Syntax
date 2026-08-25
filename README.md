@@ -1,6 +1,5 @@
-# 👋 Hi there! I'm a Computer Programmer Building Automation Tools
-
-## 🎯 About Me
+## About Me
+I'm a Computer Programmer.
 
 I'm a passionate about **automation**, **coding**, **linux** and **open source**.
 
@@ -10,9 +9,8 @@ I love building tools that make repetitive tasks disappear. I'm deeply committed
 - Contributing to open source and localization efforts (Turkish translation)
 - Building tools that actually work and solve problems
 
-## 📫 Let's Connect
-
-- GitHub: [Cyber-Syntax](https://github.com/cyber-syntax)
+## Connections
+- Twitter: https://x.com/cyb_serif
 - Portfolio:
 	- [Portfolio Home Page](https://cyber-syntax.github.io/)
 	- [My Projects](https://cyber-syntax.github.io/projects)
