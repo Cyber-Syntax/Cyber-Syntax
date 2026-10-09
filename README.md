@@ -1,15 +1,25 @@
+## Hi I'm Serif! 👋
+
+I 'm a computer programmer and a Management Information Systems graduate from Türkiye. 🇹🇷
+
 ## About Me
 
-Hi, I'm Serif, a computer programmer and a Management Information Systems graduate from Türkiye. 🇹🇷
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+[![uv](https://img.shields.io/badge/uv-261230.svg?logo=uv&logoColor=#de5fe9)](#)
+[![Ollama](https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000)](#)
 
-I'm passionate about :robot: **automation**, :technologist: **coding**, 🐧 **Linux**, and :globe_with_meridians: **open source**.
+I build automation tools and Linux utilities with a focus on maintainability,
+testing, and open-source software.
 
 ### 🚀 Project Journey
 
-- **[my-unicorn](https://github.com/Cyber-Syntax/my-unicorn)** — ![Status](https://img.shields.io/badge/status-legacy-lightgrey) An old project that solved my own problem by automating AppImage installations and updates. I am still proud of this project because it taught me a lot during development. I made several design and architectural mistakes with it, so I started writing [appimage-manager](https://github.com/Cyber-Syntax/appimage-manager), a more maintainable codebase based on what I learned.
 - **[appimage-manager](https://github.com/Cyber-Syntax/appimage-manager)** — ![Status](https://img.shields.io/badge/status-in%20development-orange) A rewrite of the old [my-unicorn](https://github.com/Cyber-Syntax/my-unicorn) repository, with a focus on a more maintainable codebase, functional programming, and a more robust testing suite.
-- **[AutoTarCompress](https://github.com/Cyber-Syntax/AutoTarCompress)** — ![Status](https://img.shields.io/badge/status-legacy-lightgrey) I couldn't find a tool that could automatically create tar archives for selected directories in Linux, so I wrote this Python project to solve a real problem I had. AutoTarCompress is a backup and archive management tool for Linux. It supports compressed backups, encryption, extraction, cleanup, and more. I made the same mistake of overengineering it as I did with my-unicorn, so I started a new project called [ztarcompress](https://github.com/Cyber-Syntax/ztarcompress) to create a more maintainable codebase.
 - **[ztarcompress](https://github.com/Cyber-Syntax/ztarcompress)** — ![Status](https://img.shields.io/badge/status-in%20development-orange) I started this project to improve my Python script, [AutoTarCompress](https://github.com/Cyber-Syntax/AutoTarCompress), by creating a cleaner and more maintainable codebase using functional programming.
+- **[my-unicorn](https://github.com/Cyber-Syntax/my-unicorn)** — ![Status](https://img.shields.io/badge/status-legacy-lightgrey) An old project that solved my own problem by automating AppImage installations and updates. I am still proud of this project because it taught me a lot during development. I made several design and architectural mistakes with it, so I started writing [appimage-manager](https://github.com/Cyber-Syntax/appimage-manager), a more maintainable codebase based on what I learned.
+- **[AutoTarCompress](https://github.com/Cyber-Syntax/AutoTarCompress)** — ![Status](https://img.shields.io/badge/status-legacy-lightgrey) I couldn't find a tool that could automatically create tar archives for selected directories in Linux, so I wrote this Python project to solve a real problem I had. AutoTarCompress is a backup and archive management tool for Linux. It supports compressed backups, encryption, extraction, cleanup, and more. I made the same mistake of overengineering it as I did with my-unicorn, so I started a new project called [ztarcompress](https://github.com/Cyber-Syntax/ztarcompress) to create a more maintainable codebase.
 
 <details>
 <summary>Other Project Journey:</summary>
