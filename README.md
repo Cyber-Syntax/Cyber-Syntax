@@ -1,6 +1,6 @@
 ## Hi I'm Serif! 👋
 
-I 'm a computer programmer and a Management Information Systems graduate from Türkiye. 🇹🇷
+I'm a computer programmer and a Management Information Systems graduate from Türkiye. 🇹🇷
 
 ## About Me
 
