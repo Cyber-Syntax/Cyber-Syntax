@@ -1,20 +1,14 @@
 ## About Me
-I'm a Computer Programmer.
 
-I'm a passionate about **automation**, **coding**, **linux** and **open source**.
+Hi, I'm Serif, a Computer Programmer and Management Information Systems Graduate from Türkiye. 🇹🇷
 
-I love building tools that make repetitive tasks disappear. I'm deeply committed to:
-- Writing well-structured, maintainable Python code
-- Learning through doing: every project teaches me something new about design patterns, optimization, and security
-- Contributing to open source and localization efforts (Turkish translation)
-- Building tools that actually work and solve problems
+I'm a passionate about :robot: **automation**, :technologist: **coding**, 🐧 **linux** and :globe_with_meridians: **open source**.
 
-## Connections
-- Twitter: https://x.com/cyb_serif
-- Portfolio:
-	- [Portfolio Home Page](https://cyber-syntax.github.io/)
-	- [My Projects](https://cyber-syntax.github.io/projects)
- 	- [Education](https://cyber-syntax.github.io/educations)
-  	- [Skills](https://cyber-syntax.github.io/skills)
-  	- [Blog](https://cyber-syntax.github.io/blog)
-  	- [Developer Wiki](https://cyber-syntax.github.io/dev)
+## :mailbox: Connections
+[![Portfolio](https://img.shields.io/badge/Portfolio-555555?style=flat-square&logo=googlechrome&logoColor=white)](https://cyber-syntax.github.io/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/serif-etiker)
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/cyb_serif)
+[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=fff)](https://mastodon.social/@priv4cy)
+[![Github Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-30363D?&logo=GitHub-Sponsors&logoColor=EA4AAA)](https://github.com/sponsors/Cyber-Syntax)
+
+
